@@ -1,0 +1,1 @@
+drop table if exists users, students, studentbackground, staff, program, department, applicationstatus, application, admin, additionalvalues, additionalinfo cascade;
